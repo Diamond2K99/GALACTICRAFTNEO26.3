@@ -1,2 +1,3 @@
 # GALACTICRAFTNEO26.3
 A FuturePort of Galacticraft (dont need to be body guarded)
+A LTS FUTURE PORT OF 26.3 FOR NEOFORGE LEGACY (PREPERATION TO MATURE 26.3 NEOFORGE)
